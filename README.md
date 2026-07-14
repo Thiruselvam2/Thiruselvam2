@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://yourportfolio.vercel.app">
+<a href="">
 <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 </p>
