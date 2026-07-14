@@ -1,4 +1,4 @@
-# Thiruselvam-2
+# Thiruselvam2
 <h1 align="center">Hi , I'm Thiruselvam </h1>
 <h3 align="center">
 Full Stack Web Developer | Passionate Problem Solver | Building
