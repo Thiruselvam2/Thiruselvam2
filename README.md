@@ -16,13 +16,11 @@
 
 - Next.js
 - TypeScript
-- Docker
 - AWS
 - System Design
 
 🎯 Goals
 
-- Build SaaS Products
 - Contribute to Open Source
 - Master MERN Stack
 - Learn Cloud Computing
@@ -31,7 +29,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/thiruselvam-c-74105b323/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
@@ -59,7 +57,10 @@
 <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
 <img src="https://skillicons.dev/icons?i=express" height="60"/>
+
 <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<br>
+
 <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 <img src="https://skillicons.dev/icons?i=firebase" height="60"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
@@ -68,8 +69,6 @@
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 <img src="https://skillicons.dev/icons?i=figma" height="60"/>
-<img src="https://skillicons.dev/icons?i=postman" height="60"/>
-<img src="https://skillicons.dev/icons?i=npm" height="60"/>
 <img src="https://skillicons.dev/icons?i=vite" height="60"/>
 
 </p>
